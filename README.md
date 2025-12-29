@@ -16,4 +16,4 @@ Follow the steps below to set up Check360 in your Chrome browser:
 
 7.Once loaded, click Update (optional but recommended).
 
-That’s it! Check360 is now successfully installed and ready to use.
+That’s it! Check360 is now successfully installed and ready to use, go to https://sparshjainchajjed.github.io/terms-and-service/ (this is a sample t&c page to test the project)
